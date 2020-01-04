@@ -31,25 +31,25 @@ Use [Open Weather Map API](http://api.openweathermap.org/data/2.5/weather) to ga
 
 # Graphs
 
-- **Humidity**
+- ***Humidity***
 <img src="https://github.com/ktung1189/WeatherPy/blob/master/Images/Humidity.png" alt='humidity'>
 
-- **Cloudiness**
+- ***Cloudiness***
 <img src="https://github.com/ktung1189/WeatherPy/blob/master/Images/Cloudiness.png" alt='cloudiness'>
 
-- **Windspeed**
+- ***Windspeed***
 <img src="https://github.com/ktung1189/WeatherPy/blob/master/Images/WindSpeed.png" alt='windspeed'>
 
-- **Temperature**
+- ***Temperature***
 <img src="https://github.com/ktung1189/WeatherPy/blob/master/Images/Temperature.png" alt='temperature'>
 
 ## Conclusion
 
-- Observation 1 : The highest temperature are correlated to the latitutes 0:40 which makes sense since it is summer in the nortern hemisphere in July. Also the the 3 cities with temperatures > 100 are in a between 20 -40 latitude which are looks like the desert in both the US, Africa, and across the globe.
+- ***Observation 1***: The highest temperature are correlated to the latitutes 0:40 which makes sense since it is summer in the nortern hemisphere in July. Also the the 3 cities with temperatures > 100 are in a between 20 -40 latitude which are looks like the desert in both the US, Africa, and across the globe.
 
-- Observation 2: There doesn't seem to be a correlation between cloudiness and wind speed to latitude but the cities with the wind speeds above 20 are all costal cities which makes sense since there is nothing buffering the wind.
+- ***Observation 2***: There doesn't seem to be a correlation between cloudiness and wind speed to latitude but the cities with the wind speeds above 20 are all costal cities which makes sense since there is nothing buffering the wind.
 
-- Observation 3: There doesn't seem to be a correlation between the humidity and latitude, but there are 1 outlier for humidity, all 1 is in the amazon basin which seems correct that it would have the highest humidity but they are close to 3 times the amount of the average from the other cities in the sample which is surprising.
+- ***Observation 3***: There doesn't seem to be a correlation between the humidity and latitude, but there are 1 outlier for humidity, all 1 is in the amazon basin which seems correct that it would have the highest humidity but they are close to 3 times the amount of the average from the other cities in the sample which is surprising.
 
 ## Running Program
 
