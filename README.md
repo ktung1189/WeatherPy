@@ -35,7 +35,7 @@ Use [Open Weather Map API](http://api.openweathermap.org/data/2.5/weather) to ga
 <img src="https://github.com/ktung1189/WeatherPy/blob/master/Images/Humidity.png" alt='humidity'>
 
 - **Cloudiness**
-<img src="https://github.com/ktung1189/WeatherPy/blob/master/Images/Cloudiness.png", alt='cloudiness'>
+<img src="https://github.com/ktung1189/WeatherPy/blob/master/Images/Cloudiness.png" alt='cloudiness'>
 
 - **Windspeed**
 <img src="https://github.com/ktung1189/WeatherPy/blob/master/Images/WindSpeed.png" alt='windspeed'>
