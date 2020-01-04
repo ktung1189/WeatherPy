@@ -43,6 +43,14 @@ Use [Open Weather Map API](http://api.openweathermap.org/data/2.5/weather) to ga
 - **Temperature**
 <img src="https://github.com/ktung1189/WeatherPy/blob/master/Images/Temperature.png" alt='temperature'>
 
+## Conclusion
+
+- Observation 1 : The highest temperature are correlated to the latitutes 0:40 which makes sense since it is summer in the nortern hemisphere in July. Also the the 3 cities with temperatures > 100 are in a between 20 -40 latitude which are looks like the desert in both the US, Africa, and across the globe.
+
+- Observation 2: There doesn't seem to be a correlation between cloudiness and wind speed to latitude but the cities with the wind speeds above 20 are all costal cities which makes sense since there is nothing buffering the wind.
+
+-Observation 3: There doesn't seem to be a correlation between the humidity and latitude, but there are 1 outlier for humidity, all 1 is in the amazon basin which seems correct that it would have the highest humidity but they are close to 3 times the amount of the average from the other cities in the sample which is surprising.
+
 ## Running Program
 
 An API will be needed from http://api.openweathermap.org/data/2.5/weather to be able to run the Jupyter Notebook.
