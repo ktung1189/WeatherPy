@@ -49,7 +49,7 @@ Use [Open Weather Map API](http://api.openweathermap.org/data/2.5/weather) to ga
 
 - Observation 2: There doesn't seem to be a correlation between cloudiness and wind speed to latitude but the cities with the wind speeds above 20 are all costal cities which makes sense since there is nothing buffering the wind.
 
--Observation 3: There doesn't seem to be a correlation between the humidity and latitude, but there are 1 outlier for humidity, all 1 is in the amazon basin which seems correct that it would have the highest humidity but they are close to 3 times the amount of the average from the other cities in the sample which is surprising.
+- Observation 3: There doesn't seem to be a correlation between the humidity and latitude, but there are 1 outlier for humidity, all 1 is in the amazon basin which seems correct that it would have the highest humidity but they are close to 3 times the amount of the average from the other cities in the sample which is surprising.
 
 ## Running Program
 
